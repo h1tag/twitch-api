@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Russo+One);
+
+body {
+  background : black;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Russo One', sans-serif;
+  font-size: 1.3em;
+
+}
+
+#title{
+  color: white;
+  text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+}
+
+#output {
+  background-color: #0f145b;
+}
+
+.green-text{
+  color: green;
+}
+
+#made-by{
+  margin-top: 40px;
+  font-size: 1em;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#made-by-link{
+  color: #afafb5;
+}
